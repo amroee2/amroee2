@@ -19,4 +19,5 @@ Final year Computer Engineering Student, passionate in AI and Backend developmen
 
 ---
 [![](https://visitcount.itsvg.in/api?id=amroee2&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{amroee2}/count.svg)
 
