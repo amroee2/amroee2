@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-Final year Computer Engineering Student, passionate in AI and Backend development
+Computer Engineering, passionate in AI and Backend development
 
  
 ## 🌐 Socials:
